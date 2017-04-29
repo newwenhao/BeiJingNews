@@ -1,0 +1,1 @@
+include ':app', ':RecyclerView', ':slidingmenu_library', ':xutils3_library', ':viewpagerindicator_library', 'MaterialRefreshLayout_simple', 'MaterialRefreshLayout_master', ':MaterialRefreshLayout_library', 'SlidingMenu-', ':viewPagerIndicator_simple'

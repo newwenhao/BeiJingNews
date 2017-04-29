@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <!--下拉刷拉控件-->
+    <LinearLayout
+        android:id = "@+id/ll_pull_down_refresh"
+        android:padding="8dp"
+        android:layout_width="match_parent"
+        android:orientation = "horizontal"
+        android:layout_height="wrap_content">
+        <FrameLayout
+            android:layout_width="80dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_gravity="center"
+                android:id = "@+id/iv_arrow"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:src="@drawable/common_listview_headview_red_arrow"/>
+            <ProgressBar
+                android:layout_marginLeft="8dp"
+                android:visibility="gone"
+                android:id="@+id/pb_status"
+                android:indeterminateDrawable="@drawable/custom_progressbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </FrameLayout>
+        <LinearLayout
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id = "@+id/tv_status"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text = "下拉刷新"
+                android:textSize="18sp"
+                android:textColor="#ff0000"/>
+
+            <TextView
+                android:id = "@+id/tv_time"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text = "上次更新时间：2016-4-22"
+                android:textSize="16sp"
+                android:textColor="#55000000" />
+        </LinearLayout>
+    </LinearLayout>
+    <!--底部轮播图-->
+
+</LinearLayout>

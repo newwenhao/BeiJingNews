@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/MaterialRefreshLayout_library" />
+            <option value="$PROJECT_DIR$/MaterialRefreshLayout_master" />
+            <option value="$PROJECT_DIR$/MaterialRefreshLayout_simple" />
+            <option value="$PROJECT_DIR$/RecyclerView" />
+            <option value="$PROJECT_DIR$/SlidingMenu-" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/slidingmenu_library" />
+            <option value="$PROJECT_DIR$/viewPagerIndicator_simple" />
+            <option value="$PROJECT_DIR$/viewpagerindicator_library" />
+            <option value="$PROJECT_DIR$/xutils3_library" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

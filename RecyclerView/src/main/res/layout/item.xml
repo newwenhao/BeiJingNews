@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="5dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id = "@+id/iv_icon"
+            android:scaleType="fitXY"
+            android:layout_width="80dp"
+            android:src = "@drawable/timg"
+            android:layout_height="80dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id = "@+id/tv_title"
+            android:text = "text"
+            android:textSize="18dp"
+            android:layout_marginLeft="8dp"
+            android:layout_gravity = "center"/>
+
+    </LinearLayout>
+
+</LinearLayout>

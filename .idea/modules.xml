@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeiJingNews.iml" filepath="$PROJECT_DIR$/BeiJingNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialRefreshLayout_library/MaterialRefreshLayout_library.iml" filepath="$PROJECT_DIR$/MaterialRefreshLayout_library/MaterialRefreshLayout_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialRefreshLayout_master/MaterialRefreshLayout_master.iml" filepath="$PROJECT_DIR$/MaterialRefreshLayout_master/MaterialRefreshLayout_master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialRefreshLayout_simple/MaterialRefreshLayout_simple.iml" filepath="$PROJECT_DIR$/MaterialRefreshLayout_simple/MaterialRefreshLayout_simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView/RecyclerView.iml" filepath="$PROJECT_DIR$/RecyclerView/RecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenu-/SlidingMenu-.iml" filepath="$PROJECT_DIR$/SlidingMenu-/SlidingMenu-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu_library/slidingmenu_library.iml" filepath="$PROJECT_DIR$/slidingmenu_library/slidingmenu_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewPagerIndicator_simple/viewPagerIndicator_simple.iml" filepath="$PROJECT_DIR$/viewPagerIndicator_simple/viewPagerIndicator_simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerindicator_library/viewpagerindicator_library.iml" filepath="$PROJECT_DIR$/viewpagerindicator_library/viewpagerindicator_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils3_library/xutils3_library.iml" filepath="$PROJECT_DIR$/xutils3_library/xutils3_library.iml" />
+    </modules>
+  </component>
+</project>
